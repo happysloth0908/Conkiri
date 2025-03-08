@@ -4,47 +4,40 @@ BE: JDK 17, Spring Boot 3.3.7
 DB: MySQL 8.0.4, Redis:latest
 Infra: Docker, Jenkins, EC2, S3, NginX
 Linux 22.04.4 LTS
-
 ---
 젠킨스 웹 주소
-http://i12b207.p.ssafy.io:8090/
-
+[제거됨]
 Admin 계정
-계정명: conkiri
-암호: 781F231676F2916EF9B5A38BAB5FE781F231676F2916EF9B5A38BAB5FE
-
-pipeline secret token: 1d4c0d22da242c48fabf2652909c1a3a
-
+계정명: [제거됨]
+암호: [제거됨]
+pipeline secret token: [제거됨]
 -----
 환경변수
-DB_URL : jdbc:mysql://mysql:3306/conkiri?useUnicode=true&serverTimezone=Asia/Seoul
-DB_USERNAME :concon
-DB_PASSWORD : conkiri1343
-KAKAO_CLIENT_ID :  f1f70bb13d36d1b133a10e4e91d569d6                    
-KAKAO_CLIENT_SECRET :  QGKHNr6Eja6rEFkFIm9iSB2mBkDo9HNG                   
-KAKAO_REDIRECT_URL :  http://localhost:8080/login/oauth2/code/kakao                    
-JWT_SECRET_KEY :  781F231676F2916EF9B5A38BAB5FE781F231676F2916EF9B5A38BAB5FE                   
-SERVER_DOMAIN  : i12b207.p.ssafy.io       
-FRONTEND_URL : https://i12b207.p.ssafy.io                
-NEXT_PUBLIC_KAKAO_MAP_API_KEY :
-AWS_ACCESS_KEY : AKIASBGQLFEHGO7ETIVY
-AWS_SECRET_KEY : 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                    
+DB_URL : [제거됨]
+DB_USERNAME : [제거됨]
+DB_PASSWORD : [제거됨]
+KAKAO_CLIENT_ID : [제거됨]
+KAKAO_CLIENT_SECRET : [제거됨]
+KAKAO_REDIRECT_URL : [제거됨]
+JWT_SECRET_KEY : [제거됨]
+SERVER_DOMAIN : [제거됨]
+FRONTEND_URL : [제거됨]
+NEXT_PUBLIC_KAKAO_MAP_API_KEY : [제거됨]
+AWS_ACCESS_KEY : [제거됨]
+AWS_SECRET_KEY : [제거됨]
 AWS_REGION : ap-northeast-2
-S3_BUCKET : ssfafy-common-pjt-conkiri                  
+S3_BUCKET : [제거됨]
 REDIS_HOST : redis
 SPRING_PROFILES_ACTIVE=dev
 JAVA_VERSION=17.0.2
-
-MYSQL_ROOT_PASSWORD=conkiri1343
-MYSQL_USER=concon
-MYSQL_PASSWORD=conkiri1343
+MYSQL_ROOT_PASSWORD=[제거됨]
+MYSQL_USER=[제거됨]
+MYSQL_PASSWORD=[제거됨]
 GOSU_VERSION=1.7
 MYSQL_MAJOR=8.0
 MYSQL_VERSION=8.0.4-rc-1debian9
-
-NEXT_PUBLIC_KAKAO_MAP_API_KEY=d4639289862f4a313a58b906eed3cb9c
-NEXT_PUBLIC_SKT_API_KEY=kDstFFpR8J1s4r9qsQYKh35fUurOOuBaZinuhTz1
-NEXT_PUBLIC_SKT_API_URL=https://apis.openapi.sk.com/puzzle/place/congestion/rltm/pois/188633
-
-Rest API key: f1f70bb13d36d1b133a10e4e91d569d6
-redirect  URI: http://localhost:8080/login/oauth2/code/kakao
+NEXT_PUBLIC_KAKAO_MAP_API_KEY=[제거됨]
+NEXT_PUBLIC_SKT_API_KEY=[제거됨]
+NEXT_PUBLIC_SKT_API_URL=[제거됨]
+Rest API key: [제거됨]
+redirect URI: [제거됨]
