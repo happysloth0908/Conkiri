@@ -3,10 +3,6 @@
 
 > 👉 [한국어로 보기](#한국어-버전)
 
----
-
-## 📘 English Version
-
 ![conkiri](https://github.com/user-attachments/assets/1815fba6-bcba-4acf-a17a-707de675aa1e)
 
 ### 📌 Table of Contents
@@ -18,11 +14,9 @@
 - [Git Workflow](#-git-workflow)
 - [Documents](#-documents)
 
----
-
 ## 🐘 Service Overview
 
-**Conkiri** is a web service that enhances the concert-going experience by providing:
+** 🎈 Conkiri** is a web service that enhances the concert-going experience by providing:
 
 1. A comprehensive archive of seat-specific view reviews  
 2. A map for sharing fan-made merchandise  
@@ -31,126 +25,266 @@
 
 Our goal is to help concertgoers make informed decisions, find fan goods easily, and reduce ticketing stress through realistic simulation tools.
 
----
+# 👨‍👩‍👦‍👦 Team
+<table>
+ <th>BackEnd</th>
+ <tr>
+    <td align="center"><a href="https://github.com/Icln"><img src="https://avatars.githubusercontent.com/u/55732952?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/guite95"><img src="https://avatars.githubusercontent.com/u/172250086?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/swim00"><img src="https://avatars.githubusercontent.com/u/191188300?v=4" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Icln</b></td>
+    <td align="center"><b>guite95</b></td>
+    <td align="center"><b>swim00</b></td>
+  </tr>
+  <tr> 
+    <td align="center">Lim Kang-ho</td>
+    <td align="center">Jang Wook</td>
+    <td align="center">Kim Sooyoung</td>
+  </tr> 
+</table>
+<table>
+ <th>FrontEnd</th>
+ <tr>
+    <td align="center"><a href="https://github.com/Minal002"><img src="https://avatars.githubusercontent.com/u/79357709?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/ynco32"><img src="https://avatars.githubusercontent.com/u/88672365?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/happysloth0908"><img src="https://avatars.githubusercontent.com/u/176969526?v=4" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Minal002</b></td>
+    <td align="center"><b>ynco32</b></td>
+    <td align="center"><b>happysloth0908</b></td>
+  </tr>
+  <tr> 
+    <td align="center">Kim Mina</td>
+    <td align="center">Choi Yunji</td>
+    <td align="center">Kim Soun</td>
+  </tr> 
+</table>
 
 ## 🛠 Tech Stack
 
-### Backend  
-- Java 11  
-- Spring Boot 2.x  
-- MySQL, Redis  
-- Gradle  
+### 🖥️ BackEnd
+<p align="left">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
-### Frontend  
-- React  
-- Next.js  
-- Tailwind CSS  
+### 🎨 FrontEnd
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
-### Infrastructure  
-- AWS EC2, S3, RDS  
-- Docker, Jenkins, GitLab CI/CD, Nginx  
+### ☁️ Infra
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+</p>
 
-### Tools  
-- Postman, Notion, Figma, Mattermost  
-- IntelliJ, VS Code
+### 🛠️ Tool
+<p align="left">
+  <img src="https://img.shields.io/badge/notion-%23181717.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/mattermost-0058CC.svg?style=for-the-badge&logo=mattermost&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Intellij%20idea-000000.svg?style=for-the-badge&logo=Intellij%20idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1572B6.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+</p>
 
----
+# 💻 Screenshots
 
-## ✨ Key Features
+## 0. Main & Login
+<table>
+  <tr>
+    <th>Login Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
+  </tr>
+</table>
 
-- 📸 **Seat View Archive**: Browse seat-specific views from various venues based on user reviews  
-- 🎁 **Fan Goods Map**: Community-driven map to locate and share fan-made items during concerts  
-- 🎫 **Ticketing Simulator**: Realistic practice simulator for high-pressure ticketing scenarios  
-- 🚦 **Real-Time Congestion Info**: Visualized venue area traffic data via mobile carrier API
+## 1. Seat View
+<table>
+  <tr>
+    <th>Browse Seat Reviews</th>
+    <th>Save Favorite Seats</th>
+    <th>Write a Review</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/1c5858c2-6738-4704-ab0e-f5f2ca3e7740/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/67305caf-82d4-465f-82a9-1b75ec9b432e/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/e3eee618-b35f-42cb-800e-6de03f076c4d/image.gif" width="250" height="480"/></td>
+  </tr>
+</table>
 
----
+## 2. Ticketing
+<table>
+  <tr>
+    <th>Practice Mode</th>
+    <th>Live Mode</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/387f0a04-0475-4c67-ada4-972401b73f1d/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/5d9a5920-4e0b-49b8-9231-6414e6f71767/image.gif" width="250" height="480"/></td>
+  </tr>
+</table>
 
-## 💻 Screenshots
+## 3. Sharing Map
+<table>
+  <tr>
+    <th>Create a Sharing Post</th>
+    <th>Bookmark Shared Posts</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/27d1f725-8973-41c8-861e-36c554f22ede/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/4930c39e-38b0-4d0a-a017-16f268558fad/image.gif" width="250" height="480"/></td>
+  </tr>
+</table>
 
-- **Main Page**  
-  ![main](https://your-image-link.com/main.png)
+## 4. Crowd Info
+<table>
+  <tr>
+    <th>Check Real-Time Crowd Levels</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/03c25aed-61e7-4ba6-aad8-71e5b4d33f39/image.png" width="250" height="480"/></td>
+  </tr>
+</table>
 
-- **Seat Review Interface**  
-  ![seat-review](https://your-image-link.com/seat-review.png)
+## 5. My Page
+<table>
+  <tr>
+    <th>Manage My Seat Reviews</th>
+    <th>Saved Sharing Posts</th>
+    <th>My Ticketing History</th>
+  </tr>
+  <tr>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/f19034c1-6afd-4cd4-ad5a-e717cff636e5/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/c6ecf4a7-e986-4ebe-8213-281bd59aa0f6/image.gif" width="250" height="480"/></td>
+    <td><img src="https://velog.velcdn.com/images/ynco32/post/653b151c-1823-4a4d-b461-8f2a5ee89f12/image.gif" width="250" height="480"/></td>
+  </tr>
+</table>
 
-- **Ticketing Practice**  
-  ![ticketing](https://your-image-link.com/ticketing.png)
+# 🚀 Technical Highlights
 
-- **Fan Goods Map**  
-  ![goods-map](https://your-image-link.com/goods-map.png)
+## Seat View  
+**[Backend] Improved Query Performance by Resolving N+1 Issue**  
+- Utilized JPQL fetch join  
+- Optimized IN queries using batch size settings  
 
----
+**[Frontend] Optimized API Calls with Caching System**  
+- TTL-based in-memory caching for reusable zone and seat data  
+- LRU algorithm: caches up to 10 sections only  
+- Integrated with ticketing practice feature  
 
-## 🚀 Technical Highlights
+## Ticketing  
+**[Backend] Reliable Queue Management System**  
+- Dynamically adjusts batch size based on server load monitoring for system stability  
+- Manages queue and concurrency with Redis Sorted Set and SETNX  
 
-### Seat View Review
-- Solved N+1 issues using `fetch join` and batch-size tuning in JPA
-- Frontend caching with LRU + TTL strategy for efficient API usage
+**[Frontend] Real-Time Queue System**  
+- Implemented with WebSocket and STOMP  
+- Supports automatic reconnection  
+- Optimized update intervals based on wait time  
 
-### Ticketing Simulator
-- Simulated ticketing queue using Redis sorted sets
-- Adaptive backend queue control and frontend real-time STOMP WebSocket updates
 
-### Goods Sharing Map
--  Posts automatically expire using Spring Scheduler
-- Custom interactive map markers implemented in React and optimized using `useRef`
+## Fan Goods Map  
+**[Backend] Automated Status Updates for Sharing Posts**  
+- Uses Spring Scheduler to update DB status at specific times via background threads  
 
-### Congestion Visualization
-- Live carrier-based traffic congestion visualization with progressive color gradients
+**[Frontend] Enhanced Map Performance with Memory Optimization**  
+- Built custom fixed markers in React  
+- Used `useRef` to efficiently manage map instance and event listeners  
+- Improved UX and accuracy in location selection  
 
----
+## Crowd Info  
+**[Frontend] Real-Time Crowd Visualization**  
+- Fetches real-time data from telecom APIs, processes it, and visualizes congestion levels on the map  
 
-## 🔧 Git Workflow
-
-### 📂 Branch Strategy
-
-| Branch | Description |
-|--------|-------------|
-| `main` | Final deploy-ready version |
-| `dev`  | Integration branch for all features |
-| `feature/*` | Individual feature branches per developer |
-
-### 💬 Commit Convention
-
-```
-feat:     A new feature
-fix:      A bug fix
-docs:     Documentation-only changes
-style:    Formatting, missing semi-colons, etc.
-refactor: Code change that neither fixes a bug nor adds a feature
-test:     Adding missing tests
-chore:    Changes to the build process or auxiliary tools
-```
-
-✅ Example:
-
-```bash
-git commit -m "feat: implement seat view API with batch optimization"
-```
-
----
 
 ## 📁 Documents
+[Flowchart](https://www.figma.com/board/oRTRzvx7WlGlpDxcW3DVMW/%EA%B8%B0%ED%9A%8D?node-id=0-1&p=f&t=IwOpRX94lSMVsHKO-0) <br>
+[Functional Specification](https://www.notion.so/17da48ef63c3808ca05bca510ac61ef8?pvs=4) <br>
+[API Docs](https://www.notion.so/lcln/API-173a48ef63c38137aff0fb059e649c62) <br>
 
-- [Flowchart (Figma)](https://www.figma.com/board/oRTRzvx7WlGlpDxcW3DVMW)  
-- [Feature Specs (Notion)](https://www.notion.so/17da48ef63c3808ca05bca510ac61ef8)  
-- [API Docs (Notion)](https://www.notion.so/lcln/API-173a48ef63c38137aff0fb059e649c62)
+### ERD
+<img src="https://velog.velcdn.com/images/ynco32/post/099bda2d-7209-455f-90de-c983900cd389/image.png" width="800" height="500"/>
 
----
+### Architecture
+<img src="https://velog.velcdn.com/images/ynco32/post/21d43168-37c4-4992-8c15-48f1a16af2f9/image.png" width="800" height="500"/>
 
-## 🗂 License
 
-This project is for educational and portfolio purposes only.  
-All seat view data is fictional and does not represent any real-world concert hall.
+### 🔧 Git Convention
+| `feat` | Add new feature |
+| --- | --- |
+| `fix` | Bug fix |
+| `docs` | Documentation changes |
+| `style` | Code formatting, missing semicolons, changes that do not affect code behavior, absence of comments, or renaming files/folders |
+| `refactor` | Code refactoring |
+| `test` | Adding or modifying tests |
+| `design` | Changes to user interface design such as CSS modifications |
+| `remove` | When only deleting files |
+| `hotfix` | Urgent bug fixes |
 
----
+📂 Branch Naming
+
+*   Summarize functionality in English
+*   Use lowercase letters
+*   Separate words with `-`
+*   Distinguish between backend and frontend
+*   Summarize the functionality from the story and include the unique story number in the branch name
+*   ex) `feat-#66-be-login (functionality summary)`
+*   For frontend | publishing branches, use fe-p-functionality-summary
+*   ex) `feat-#66-fe-p-show-list (functionality summary)`
+
+💬 Commit Message
+
+*   Keep commits as small as possible, e.g., writing a controller, writing a service
+*   Do not end with `.`
+*   feat: Summarize the implemented functionality
+*   ex) `feat: Create Controller to retrieve User's Role`
+
+Merge Request Title
+
+*   Do not end with `.`
+*   Capitalize the first letter
+*   Include the story number for features
+*   ex) `Feat #66 Implement login functionality`, `Fix: Correct Kakao login bug`, `Hotfix: Fix login token error`
+
+Implementation and Changes <br>
+ ex) Added Google social login functionality during login<br>
+ ex) Wrote logic used for creating rooms<br>
+ ex) Separated logic for generating random passwords into a utility<br>
+ ex) Including ERDs or images is acceptable<br>
+
+Test Results <br>
+ ex) All code intended for inclusion in the base branch should function correctly. You may attach screenshots, GIFs, or sample APIs to demonstrate the results.
+
+
+
 
 ## 🧭 Korean Version
 
 If you'd like to read this README in Korean,  
 please scroll down to the [한국어 버전](#한국어-버전) section below.
 
+---
 
+## 한국어 버전
 
 # 🐘 콘끼리
 ![conkiri-p](https://github.com/user-attachments/assets/1815fba6-bcba-4acf-a17a-707de675aa1e)
