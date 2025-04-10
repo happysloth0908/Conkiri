@@ -1,3 +1,157 @@
+
+# 🐘 Conkiri
+
+> 👉 [한국어로 보기](#한국어-버전)
+
+---
+
+## 📘 English Version
+
+![conkiri](https://github.com/user-attachments/assets/1815fba6-bcba-4acf-a17a-707de675aa1e)
+
+### 📌 Table of Contents
+- [Service Overview](#-service-overview)
+- [Tech Stack](#-tech-stack)
+- [Key Features](#-key-features)
+- [Screenshots](#-screenshots)
+- [Technical Highlights](#-technical-highlights)
+- [Git Workflow](#-git-workflow)
+- [Documents](#-documents)
+
+---
+
+## 🐘 Service Overview
+
+**Conkiri** is a web service that enhances the concert-going experience by providing:
+
+1. A comprehensive archive of seat-specific view reviews  
+2. A map for sharing fan-made merchandise  
+3. A real-time ticketing practice simulator  
+4. Live congestion data for venue surroundings
+
+Our goal is to help concertgoers make informed decisions, find fan goods easily, and reduce ticketing stress through realistic simulation tools.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend  
+- Java 11  
+- Spring Boot 2.x  
+- MySQL, Redis  
+- Gradle  
+
+### Frontend  
+- React  
+- Next.js  
+- Tailwind CSS  
+
+### Infrastructure  
+- AWS EC2, S3, RDS  
+- Docker, Jenkins, GitLab CI/CD, Nginx  
+
+### Tools  
+- Postman, Notion, Figma, Mattermost  
+- IntelliJ, VS Code
+
+---
+
+## ✨ Key Features
+
+- 📸 **Seat View Archive**: Browse seat-specific views from various venues based on user reviews  
+- 🎁 **Fan Goods Map**: Community-driven map to locate and share fan-made items during concerts  
+- 🎫 **Ticketing Simulator**: Realistic practice simulator for high-pressure ticketing scenarios  
+- 🚦 **Real-Time Congestion Info**: Visualized venue area traffic data via mobile carrier API
+
+---
+
+## 💻 Screenshots
+
+- **Main Page**  
+  ![main](https://your-image-link.com/main.png)
+
+- **Seat Review Interface**  
+  ![seat-review](https://your-image-link.com/seat-review.png)
+
+- **Ticketing Practice**  
+  ![ticketing](https://your-image-link.com/ticketing.png)
+
+- **Fan Goods Map**  
+  ![goods-map](https://your-image-link.com/goods-map.png)
+
+---
+
+## 🚀 Technical Highlights
+
+### Seat View Review
+- Solved N+1 issues using `fetch join` and batch-size tuning in JPA
+- Frontend caching with LRU + TTL strategy for efficient API usage
+
+### Ticketing Simulator
+- Simulated ticketing queue using Redis sorted sets
+- Adaptive backend queue control and frontend real-time STOMP WebSocket updates
+
+### Goods Sharing Map
+-  Posts automatically expire using Spring Scheduler
+- Custom interactive map markers implemented in React and optimized using `useRef`
+
+### Congestion Visualization
+- Live carrier-based traffic congestion visualization with progressive color gradients
+
+---
+
+## 🔧 Git Workflow
+
+### 📂 Branch Strategy
+
+| Branch | Description |
+|--------|-------------|
+| `main` | Final deploy-ready version |
+| `dev`  | Integration branch for all features |
+| `feature/*` | Individual feature branches per developer |
+
+### 💬 Commit Convention
+
+```
+feat:     A new feature
+fix:      A bug fix
+docs:     Documentation-only changes
+style:    Formatting, missing semi-colons, etc.
+refactor: Code change that neither fixes a bug nor adds a feature
+test:     Adding missing tests
+chore:    Changes to the build process or auxiliary tools
+```
+
+✅ Example:
+
+```bash
+git commit -m "feat: implement seat view API with batch optimization"
+```
+
+---
+
+## 📁 Documents
+
+- [Flowchart (Figma)](https://www.figma.com/board/oRTRzvx7WlGlpDxcW3DVMW)  
+- [Feature Specs (Notion)](https://www.notion.so/17da48ef63c3808ca05bca510ac61ef8)  
+- [API Docs (Notion)](https://www.notion.so/lcln/API-173a48ef63c38137aff0fb059e649c62)
+
+---
+
+## 🗂 License
+
+This project is for educational and portfolio purposes only.  
+All seat view data is fictional and does not represent any real-world concert hall.
+
+---
+
+## 🧭 Korean Version
+
+If you'd like to read this README in Korean,  
+please scroll down to the [한국어 버전](#한국어-버전) section below.
+
+
+
 # 🐘 콘끼리
 ![conkiri-p](https://github.com/user-attachments/assets/1815fba6-bcba-4acf-a17a-707de675aa1e)
 
