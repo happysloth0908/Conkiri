@@ -8,7 +8,6 @@
 ### 📌 Table of Contents
 - [Service Overview](#-service-overview)
 - [Tech Stack](#-tech-stack)
-- [Key Features](#-key-features)
 - [Screenshots](#-screenshots)
 - [Technical Highlights](#-technical-highlights)
 - [Git Workflow](#-git-workflow)
@@ -39,7 +38,7 @@ Our goal is to help concertgoers make informed decisions, find fan goods easily,
     <td align="center"><b>swim00</b></td>
   </tr>
   <tr> 
-    <td align="center">Lim Kang-ho</td>
+    <td align="center">Lim Kangho</td>
     <td align="center">Jang Wook</td>
     <td align="center">Kim Sooyoung</td>
   </tr> 
@@ -111,8 +110,10 @@ Our goal is to help concertgoers make informed decisions, find fan goods easily,
 <table>
   <tr>
     <th>Login Screen</th>
+    <th>Main Screen</th>
   </tr>
   <tr>
+    <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
     <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
   </tr>
 </table>
