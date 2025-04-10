@@ -114,7 +114,7 @@ Our goal is to help concertgoers make informed decisions, find fan goods easily,
   </tr>
   <tr>
     <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
-    <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
+    <td><img src="https://github.com/happysloth0908/Conkiri/issues/1#issue-2986152004" width="250" height="500"/></td>
   </tr>
 </table>
 
@@ -393,10 +393,12 @@ please scroll down to the [한국어 버전](#한국어-버전) section below.
 ## 0. 메인 화면 및 로그인 화면
 <table>
   <tr>
+    <th>로그인 화면</th>
     <th>메인 화면</th>
   </tr>
   <tr>
     <td><img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="250" height="500"/></td>
+    <td><img src="https://github.com/happysloth0908/Conkiri/issues/1#issue-2986152004" width="250" height="500"/></td>
   </tr>
 </table>
 
