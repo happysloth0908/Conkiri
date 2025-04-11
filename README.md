@@ -14,7 +14,7 @@
 
 ## 🐘 Service Overview
 
-### 🎈 Conkiri is a web service that enhances the concert-going experience by providing:
+### 🎈 Conkiri is a web app service that enhances the concert-going experience by providing:
 
 1. A comprehensive archive of seat-specific view reviews  
 2. A map for sharing fan-made merchandise  
