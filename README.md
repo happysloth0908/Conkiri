@@ -25,7 +25,6 @@ Our goal is to help concertgoers make informed decisions, find fan goods easily,
 
 # 👨‍👩‍👦‍👦 Team
 <table>
- <th>BackEnd</th>
  <tr>
     <td align="center"><a href="https://github.com/Icln"><img src="https://avatars.githubusercontent.com/u/55732952?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/guite95"><img src="https://avatars.githubusercontent.com/u/172250086?v=4" width="130px;" alt=""></a></td>
@@ -43,7 +42,6 @@ Our goal is to help concertgoers make informed decisions, find fan goods easily,
   </tr> 
 </table>
 <table>
- <th>FrontEnd</th>
  <tr>
     <td align="center"><a href="https://github.com/Minal002"><img src="https://avatars.githubusercontent.com/u/79357709?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ynco32"><img src="https://avatars.githubusercontent.com/u/88672365?v=4" width="130px;" alt=""></a></td>
@@ -309,7 +307,6 @@ please scroll down to the [한국어 버전](#한국어-버전) section below.
 
 # 👨‍👩‍👦‍👦 팀원
 <table>
- <th>BackEnd</th>
  <tr>
     <td align="center"><a href="https://github.com/Icln"><img src="https://avatars.githubusercontent.com/u/55732952?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/guite95"><img src="https://avatars.githubusercontent.com/u/172250086?v=4" width="130px;" alt=""></a></td>
@@ -327,7 +324,6 @@ please scroll down to the [한국어 버전](#한국어-버전) section below.
   </tr> 
 </table>
 <table>
- <th>FrontEnd</th>
  <tr>
     <td align="center"><a href="https://github.com/Minal002"><img src="https://avatars.githubusercontent.com/u/79357709?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ynco32"><img src="https://avatars.githubusercontent.com/u/88672365?v=4" width="130px;" alt=""></a></td>
